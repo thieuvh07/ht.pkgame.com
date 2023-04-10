@@ -6,7 +6,10 @@ Website ecommerce selling phone accessories
 
 Website ecommerce selling phone accessories
 
+![alt text](/picture/homepage.png)
+![alt text](/picture/product.png)
 ![alt text](/picture/admin.png)
+![alt text](/picture/productadmin.png)
 
 ### Dependencies
 
