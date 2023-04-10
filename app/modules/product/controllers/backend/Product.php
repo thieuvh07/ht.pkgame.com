@@ -690,8 +690,8 @@ class Product extends MY_Controller {
 			return false;
 		}
 	}
-	public function _CheckAttribute_catalogue($attribute_catalogue = ''){
-		if(isset($attribute_catalogue) && is_array($attribute_catalogue) && count($attribute_catalogue) && $attribute_catalogue != Array([0] => 0)){ 
+	public function _CheckAttribute_catalogue($attribute_catalogue = []){
+		if(isset($attribute_catalogue) && is_array($attribute_catalogue) && count($attribute_catalogue)!= 0 && $attribute_catalogue != Array(0)){ 
 			foreach ($attribute_catalogue as $key => $value) {
 				if($value==''|| $value ==null|| $value ==0){
 					$this->form_validation->set_message('_CheckAttribute_catalogue','Bạn phải chọn nhóm thuộc tính');

@@ -6,7 +6,7 @@ Website ecommerce selling phone accessories
 
 Website ecommerce selling phone accessories
 
-## Getting Started
+![alt text](https://drive.google.com/file/d/19vcFhpn5fFjf9D5dG0tKZ7qgMKmANGyD/view?usp=sharing)
 
 ### Dependencies
 
