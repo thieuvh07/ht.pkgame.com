@@ -4,7 +4,7 @@ Website ecommerce selling phone accessories
 
 ## Description
 
-Website ecommerce selling phone accessories
+Module product, customer, article, cart
 
 ![alt text](/picture/homepage.png)
 ![alt text](/picture/product.png)
@@ -13,7 +13,7 @@ Website ecommerce selling phone accessories
 
 ### Dependencies
 
-* PHP 7.2 MySql 5.6
+* PHP 7.2 MySql 5.6, PHP Framework Codeigniter 3x
 
 ### Installing
 
